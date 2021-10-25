@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kapellaz
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning Javascript and have already learnt C and Python
+- 🌱 I’m currently learning Java and have already learnt C and Python
 - 📫 How to reach me: rui.santos192002@hotmail.com
 
 <!---
