@@ -10,8 +10,7 @@
     <p> 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲: <p>
     <p> My name is Rui Santos and I live in Sernancelhe, Viseu, Portugal. I am currently studying Informatics Engineering at Coimbra University. There I learned C, Java Python and Matlab. Furthermore, I took some courses on Javascript, Html and CSS, and some other related to linux, cybersecurity and data science as you can see in my Linkdin page (down bellow).  </p>
     </div>
-    
-    ##
+
      
 <div align="center">
     <p> 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀: <p>
@@ -19,7 +18,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapellaz&layout=compact&langs_count=7&theme=dark"/>
     </div>
     
-    ##
     
 <div align="center">
     <p> 𝗠𝘆 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: </p>
@@ -34,15 +32,12 @@
       <img align="center" alt="Kapellaz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" alt="Kapellaz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <img align="center" alt="Kapellaz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
-
     </div>
     
-    ## 
     
 <div align="center">
     <p> 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮: </p>
-    </div>
-    
+    </div>  
 <div style="display: inline_block" align="center"><br> 
         <a href="https://www.instagram.com/ruisantos192002" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
         <a href="https://www.linkedin.com/in/rui-santos-19f2002/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
@@ -51,8 +46,7 @@
         <a href="https://twitter.com/kapellazz" target="_blank"><img src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
     </div>
     
-    ##
-    
+
 <div align="center"><br> 
     <p> 𝗩𝗶𝘀𝗶𝘁𝗼𝗿'𝘀 𝗖𝗼𝘂𝗻𝘁 :eyes:</p>
     <p align="center"><img src="https://profile-counter.glitch.me/{kapellaz}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
