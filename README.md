@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kapellaz
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning Javascript and have already learnt C and Python
+- 🌱 I’m currently learning Javascript and have already learnt C, Python and Java
 - 📫 How to reach me: rui.santos192002@hotmail.com
 <!---
 kapellaz/kapellaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
