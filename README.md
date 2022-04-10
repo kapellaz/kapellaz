@@ -33,7 +33,7 @@
       <img align="center" alt="Kapellaz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <img align="center" alt="Kapellaz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
 
-    </div>
+</div>
     
     
 <div align="center">
