@@ -1,58 +1,62 @@
 <div align="center">
-    <h1> 𝐇i there 👋 </h1>
-</div>
-    
-<div align="center">
-    <p> 𝗬𝗼𝘂 𝗵𝗮𝘃𝗲 𝗳𝗶𝗻𝗮𝗹𝗹𝘆 𝗱𝗶𝘀𝗰𝗼𝘃𝗲𝗿𝗲𝗱 𝗺𝘆 𝗚𝗶𝘁𝗵𝘂𝗯 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 <p>
-</div>
-     
-<div align="center">
-    <h4> 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲: </h4>
-    <p> My name is Rui Santos and I live in Sernancelhe, Viseu, Portugal. I am currently studying Informatics Engineering at Coimbra University. There I learned C, Java Python and Matlab. Furthermore, I took some courses on Javascript, Html and CSS, and some other related to linux, cybersecurity and data science as you can see in my Linkdin page (down bellow).  </p>
+<h1> 𝐇i there 👋 </h1>
 </div>
 
-     
 <div align="center">
-    <h4> 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀: </h4>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kapellaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapellaz&layout=compact&langs_count=7&theme=dark"/>
+<p> 𝗬𝗼𝘂 𝗵𝗮𝘃𝗲 𝗳𝗶𝗻𝗮𝗹𝗹𝘆 𝗱𝗶𝘀𝗰𝗼𝘃𝗲𝗿𝗲𝗱 𝗺𝘆 𝗚𝗶𝘁𝗵𝘂𝗯 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 <p>
 </div>
-    
+
+##
 
 <div align="center">
-    <h4> 𝗠𝘆 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: </h4>
+<p> 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲: <p>
+<p> My name is Rui Santos and I live in Sernancelhe, Viseu, Portugal. I am currently studying Informatics Engineering at Coimbra University. There I learned C, Java Python and Matlab. Furthermore, I took some courses on Javascript, Html and CSS, and some other related to linux, cybersecurity and data science as you can see in my Linkdin page (down bellow).  </p>
 </div>
-    
+
+##
+
+<div align="center">
+<p> 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀: <p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kapellaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapellaz&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+##
+
+<div align="center">
+<p> 𝗠𝘆 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: </p>
+</div>
+
 <div style="display: inline_block" align="center"><br>
-      <img align="center" alt="Kapellaz-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-      <img align="center" alt="Kapellaz-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-      <img align="center" alt="Kapellaz-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-      <img align="center" alt="Kapellaz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="Kapellaz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="Kapellaz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="Kapellaz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img align="center" alt="Kapellaz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
-
+  <img align="center" alt="Kapellaz-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Kapellaz-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Kapellaz-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Kapellaz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Kapellaz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Kapellaz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Kapellaz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Kapellaz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
 </div>
-    
 
+## 
 
 <div align="center">
-    <h4> 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮: </h4>
+<p> 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮: </p>
 </div>
-    
+
 <div style="display: inline_block" align="center"><br> 
-        <a href="https://www.instagram.com/ruisantos192002" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-        <a href="https://www.linkedin.com/in/rui-santos-19f2002/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-        <a href = "mailto:mailto:rui.santos192002@hotmail.com"><img src="https://img.shields.io/badge/-hotmail-%2523333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-        <a href = "mailto:mailto:ruicapelas192002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-        <a href="https://twitter.com/kapellazz" target="_blank"><img src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+   <a href="https://www.instagram.com/ruisantos192002" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/rui-santos-19f2002/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+    <a href = "mailto:mailto:rui.santos192002@hotmail.com"><img src="https://img.shields.io/badge/-hotmail-%2523333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:mailto:ruicapelas192002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://twitter.com/kapellazz" target="_blank"><img src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 </div>
-    
-  
+
+##
+
 <div align="center"><br> 
-    <h4> 𝗩𝗶𝘀𝗶𝘁𝗼𝗿'𝘀 𝗖𝗼𝘂𝗻𝘁 :eyes:</h4>
-    <p align="center"><img src="https://profile-counter.glitch.me/{kapellaz}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p> 𝗩𝗶𝘀𝗶𝘁𝗼𝗿'𝘀 𝗖𝗼𝘂𝗻𝘁 :eyes:</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{kapellaz}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 </div>
 <!---
 kapellaz/kapellaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
