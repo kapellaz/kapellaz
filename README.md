@@ -10,7 +10,7 @@
 
 <div align="center">
 <p> 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲: <p>
-<p> My name is Rui Santos and I live in Sernancelhe, Viseu, Portugal. I am currently studying Informatics Engineering at Coimbra University. There I learned C, Java Python and Matlab. Furthermore, I took some courses on Javascript, Html and CSS, and some other related to linux, cybersecurity and data science as you can see in my Linkdin page (down bellow).  </p>
+<p> My name is Rui Santos and I live in Sernancelhe, Viseu, Portugal. I am currently studying Informatics Engineering at Coimbra University. There I learned C, Java Python and Matlab. Furthermore, I took some courses on Javascript, Html and CSS, and some other related to linux, cybersecurity and data science as you can see in my Linkedin page (down bellow).  </p>
 </div>
 
 ##
