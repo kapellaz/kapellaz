@@ -17,6 +17,7 @@
 
 <div align="center">
 <p> 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀: <p>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KapellaZ&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapellaz&layout=compact&langs_count=7&theme=dark"/>
 </div>
