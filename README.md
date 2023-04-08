@@ -2,10 +2,13 @@
 <h1> 𝐇i there 👋 </h1>
 </div>
 
+<!---
+kapellaz/kapellaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
 <div align="center">
 <p> 𝗬𝗼𝘂 𝗵𝗮𝘃𝗲 𝗳𝗶𝗻𝗮𝗹𝗹𝘆 𝗱𝗶𝘀𝗰𝗼𝘃𝗲𝗿𝗲𝗱 𝗺𝘆 𝗚𝗶𝘁𝗵𝘂𝗯 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 <p>
 </div>
-
+--->
 ##
 
 <div align="center">
