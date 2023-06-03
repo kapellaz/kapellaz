@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.linkedin.com/in/rui-santos-19f2002/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
     <a href = "mailto:mailto:rpcsantos192002@hotmail.com"><img src="https://img.shields.io/badge/-hotmail-%2523333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href = "mailto:mailto:ruicapelas192002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/kapellazz" target="_blank"><img src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+    <a href="https://twitter.com/kapellaz19" target="_blank"><img src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 </div>
 
 ##
